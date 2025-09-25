@@ -2,7 +2,7 @@
 The code of "IDOL: Meeting Diverse Distribution Shifts with Prior Physics for Tropical Cyclone Multi-Task Estimation" was accepted to NIPS2025.
 
 ## Introductionaccept
-![image](https://github.com/yht1214/IDOL/blob/main/figs/fig-IODL.png)
+![image](https://github.com/yht1214/IDOL/blob/main/fig-IODL.png)
 
 Contribution:
 1. To address concept shift in multi-task learning, we propose a Task Dependency Flow learning module. By incorporating the prior wind field model, the conditional probabilities of multiple specific tasks are decoupled to model the dependencies among tasks, thereby facilitating the learning of distinct TC attribute identities.
@@ -13,5 +13,3 @@ Contribution:
 * python 3.8.8
 * Pytorch 1.1.0
 * CUDA 11.7
-## Dataset
-Physical Dynamic TC datasets (PDTC) will be open-sourced upon acceptance of the paper.
