@@ -12,3 +12,13 @@ Contribution:
 * python 3.8.8
 * Pytorch 1.1.0
 * CUDA 11.7
+
+## Citation
+You can cite our works as follows:
+@article{IDOL,
+	title={IDOL: Meeting Diverse Distribution Shifts with Prior
+	Physics for Tropical Cyclone Multi-Task Estimation},
+	author={Hanting Yan and Pan Mu, Shiqi Zhang and Yuchao Zhu and Jinglin Zhang, and Cong Bai},
+	journal={Advances in neural information processing systems},
+	year={2025}
+}
