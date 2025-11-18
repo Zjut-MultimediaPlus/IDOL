@@ -13,6 +13,10 @@ Contribution:
 * Pytorch 1.1.0
 * CUDA 11.7
 
+## Datatset
+通过网盘分享的文件：45_270du_k89_4ch1_data.tar.gz
+链接: https://pan.baidu.com/s/1_Y4gwEM1NRE9zMpUUWK0kQ 提取码: 4jtp
+
 ## Citation
 If you find this work useful, please consider citing us!   
 ```bibtex
