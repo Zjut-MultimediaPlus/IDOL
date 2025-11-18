@@ -18,7 +18,7 @@ This dataset contains multi-channel infrared satellite images centered on tropic
 The dataset is provided in compressed formats to reduce storage size.  
 Files shared via cloud storage:  
 Link: https://pan.baidu.com/s/1_Y4gwEM1NRE9zMpUUWK0kQ  Code: 4jtp  
-### Dataset Description
+- Dataset Description
 Inside the extracted directory:  
 Each file corresponds to a satellite infrared cloud image centered on a tropical cyclone.  
 Files are stored in NumPy .npy format.  
@@ -26,6 +26,7 @@ Each .npy file contains 4 infrared (IR) channels, the general shape of each data
 Please follow the instructions below to decompress and use the data.
 ```bash
 tar -xzvf 45_270du_k89_4ch1_data.tar.gz
+---
 
 ## Citation
 If you find this work useful, please consider citing us!   
