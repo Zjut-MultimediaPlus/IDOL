@@ -14,7 +14,7 @@ Contribution:
 * CUDA 11.7
 
 ## Citation
-If you find this work useful, please consider citing us! \n
+If you find this work useful, please consider citing us!   
 @article{IDOL,
 	title={IDOL: Meeting Diverse Distribution Shifts with Prior
 	Physics for Tropical Cyclone Multi-Task Estimation},
