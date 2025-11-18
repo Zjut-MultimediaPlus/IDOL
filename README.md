@@ -15,10 +15,11 @@ Contribution:
 
 ## Citation
 If you find this work useful, please consider citing us!   
-@article{IDOL,
-	title={IDOL: Meeting Diverse Distribution Shifts with Prior
-	Physics for Tropical Cyclone Multi-Task Estimation},
-	author={Hanting Yan and Pan Mu, Shiqi Zhang and Yuchao Zhu and Jinglin Zhang, and Cong Bai},
-	journal={Advances in neural information processing systems},
-	year={2025}
+```bibtex
+@inproceedings{chen2025unirestore,
+  title={UniRestore: Unified Perceptual and Task-Oriented Image Restoration Model Using Diffusion Prior},
+  author={Chen, I and Chen, Wei-Ting and Liu, Yu-Wei and Chiang, Yuan-Chun and Kuo, Sy-Yen and Yang, Mi},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={17969--17979},
+  year={2025}
 }
