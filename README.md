@@ -14,8 +14,22 @@ Contribution:
 * CUDA 11.7
 
 ## Datatset
+This dataset contains multi-channel infrared satellite images centered on tropical cyclones.  
+The dataset is provided in compressed formats to reduce storage size.  
 通过网盘分享的文件：45_270du_k89_4ch1_data.tar.gz
-链接: https://pan.baidu.com/s/1_Y4gwEM1NRE9zMpUUWK0kQ 提取码: 4jtp
+链接: https://pan.baidu.com/s/1_Y4gwEM1NRE9zMpUUWK0kQ 提取码: 4jtp  
+Please follow the instructions below to decompress and use the data.
+```bash
+tar -xzvf 45_270du_k89_4ch1_data.tar.gz
+* Dataset Description
+Inside the extracted directory:  
+Each file corresponds to a satellite infrared cloud image centered on a tropical cyclone.  
+Files are stored in NumPy .npy format.  
+Each .npy file contains 4 infrared (IR) channels, the general shape of each data file is: (4, 156, 156)
+* Example: Load an .npy File
+```
+import numpy as np
+arr = np.load("sample.npy")  
 
 ## Citation
 If you find this work useful, please consider citing us!   
