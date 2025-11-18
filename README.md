@@ -26,7 +26,7 @@ Each .npy file contains 4 infrared (IR) channels, the general shape of each data
 Please follow the instructions below to decompress and use the data.
 ```bash
 tar -xzvf 45_270du_k89_4ch1_data.tar.gz
----
+```
 
 ## Citation
 If you find this work useful, please consider citing us!   
@@ -38,3 +38,4 @@ If you find this work useful, please consider citing us!
     journal={Advances in neural information processing systems},
     year={2025}
 }
+```
